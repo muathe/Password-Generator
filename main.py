@@ -35,4 +35,4 @@ for pw in password_list:
 print(f"Your password is {password}")
 
 
-#shuffle the deck X8
+#shuffle the deck x12
